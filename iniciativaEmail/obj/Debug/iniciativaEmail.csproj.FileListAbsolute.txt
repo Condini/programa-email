@@ -1,0 +1,9 @@
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\bin\Debug\iniciativaEmail.exe.config
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\bin\Debug\iniciativaEmail.exe
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\bin\Debug\iniciativaEmail.pdb
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\obj\Debug\iniciativaEmail.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\obj\Debug\iniciativaEmail.Form1.resources
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\obj\Debug\iniciativaEmail.Properties.Resources.resources
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\obj\Debug\iniciativaEmail.csproj.GenerateResource.Cache
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\obj\Debug\iniciativaEmail.exe
+C:\Users\guilherme.santos\Desktop\iniciativaEmail\iniciativaEmail\obj\Debug\iniciativaEmail.pdb
