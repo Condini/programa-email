@@ -45,10 +45,10 @@ namespace iniciativaEmail
                 Client.Port = 587;
                 Client.DeliveryMethod = SmtpDeliveryMethod.Network;
                 Client.UseDefaultCredentials = false;
-                Client.Credentials = new NetworkCredential("guilherme.santos@confitec.com.br", "Batata123");
+                Client.Credentials = new NetworkCredential("meuemail@outlook.com.br", "MinhaSenha123");
                 Client.EnableSsl = true;
 
-                Msg.From = new MailAddress("guilherme.santos@confitec.com.br");
+                Msg.From = new MailAddress("destinatario@outlook.com.br");
                 Msg.IsBodyHtml = true;
                 Msg.Body = model.Body;
                 Msg.Subject = model.Subject;
